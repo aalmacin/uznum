@@ -8,7 +8,7 @@
     "dist"
   ],
   "devDependencies": {
-    "typescript": "^4.9.4"
+    "typescript": "^5.0.4"
   },
   "scripts": {
     "build": "tsc",
